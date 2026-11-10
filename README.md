@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Syeda Farwa Naqvi**, a Software Engineering student with a passion for UI/UX design.
 
-🔗 **Live site:** https://YOUR-USERNAME.github.io/My-Portfolio/
+🔗 **Live site:** https://github.com/naqvisyed-cell/My-Portfolio/
 
 ## ✨ Features
 
