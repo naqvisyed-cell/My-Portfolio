@@ -2,8 +2,7 @@
 
 Personal portfolio website of **Syeda Farwa Naqvi**, a Software Engineering student with a passion for UI/UX design.
 
-🔗 **Live site:** https://github.com/naqvisyed-cell/My-Portfolio/
-
+🔗 **Live site:** https://naqvisyed-cell.github.io/My-Portfolio/
 ## ✨ Features
 
 - Clean, light pastel design (pink, lavender and mint)
